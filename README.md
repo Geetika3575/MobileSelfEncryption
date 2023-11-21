@@ -1,2 +1,2 @@
-# coursera-test
-coursera test repository
+# Mobile Self Encryption
+Mobile Self Encryption app to encrypt and decrypt the files.
